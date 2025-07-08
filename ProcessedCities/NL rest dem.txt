@@ -1,0 +1,27 @@
+Het Hogeland: 0
+Westerkwartier: 3
+Súdwest-Fryslân: 0
+Bergen (NH): 1
+Hengelo (O): 23
+s-Gravenhage: 2
+Molenlanden: 0
+Vijfheerenlanden: 1
+West Betuwe: 3
+Hoeksche Waard: 0
+Bergen (L): 19
+Beekdaelen: 91
+
+-----------------------
+
+3095;Het Hogeland;53.4264;6.5697;0;0;0;0;0
+3096;Westerkwartier;53.1818;6.2869;0;0;0;3;0
+3097;Súdwest-Fryslân;53.0489;5.4822;0;0;0;0;0
+3098;Bergen (NH);52.6749;4.7064;0;0;0;1;0
+3099;Hengelo (O);52.2574;6.7928;0;0;0;23;0
+3100;'s-Gravenhage;52.0705;4.3007;0;0;0;2;0
+3101;Molenlanden;51.9000;4.8650;0;0;0;0;0
+3102;Vijfheerenlanden;51.9333;5.0807;0;0;0;1;0
+3103;West Betuwe;51.8423;5.2214;0;0;0;3;0
+3104;Hoeksche Waard;51.7480;4.4241;0;0;0;0;0
+3105;Bergen (L);51.5790;6.0774;0;0;0;19;0
+3106;Beekdaelen;50.9372;5.8874;0;0;0;91;0
