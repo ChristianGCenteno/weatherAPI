@@ -6,7 +6,7 @@ If you want to read more about this project, [here](WEATHER%20AND%20POLLUTION%20
 
 
 ## Are you interested in the code?
-In the [source code repository](source%20code/packageWS) is the Python packages with all the Python scripts, maps and resources. 
+In the [source code repository](weatherApi) is the Python packages with all the Python scripts, maps and resources. 
 
 
 **Have fun!**
